@@ -15,4 +15,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 Deployed website link: https://karthikilla.github.io/Dashtoon-React/
 
 Disclaimer to the Evaluters:
-I know that the code is not commented on and documented properly, it is due to time constraints, and I wasn't able to work on it properly. This is the best I came up with. If possible please ignore my mistakes in while evaluating. And thanks for visiting.
+I know that the code is not commented on and documented properly, it is due to time constraints, and I wasn't able to work on it properly. This is the best I came up with. If possible please ignore my mistakes while evaluating. And thanks for visiting.
