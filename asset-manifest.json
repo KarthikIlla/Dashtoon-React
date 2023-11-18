@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Dashtoon-React/static/css/main.23aa0715.css",
+    "main.js": "/Dashtoon-React/static/js/main.7e065350.js",
+    "static/js/787.dd137d72.chunk.js": "/Dashtoon-React/static/js/787.dd137d72.chunk.js",
+    "index.html": "/Dashtoon-React/index.html",
+    "main.23aa0715.css.map": "/Dashtoon-React/static/css/main.23aa0715.css.map",
+    "main.7e065350.js.map": "/Dashtoon-React/static/js/main.7e065350.js.map",
+    "787.dd137d72.chunk.js.map": "/Dashtoon-React/static/js/787.dd137d72.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23aa0715.css",
+    "static/js/main.7e065350.js"
+  ]
+}
